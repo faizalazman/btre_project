@@ -12,7 +12,7 @@ class ListingAdmin(admin.ModelAdmin):
     list_per_page = 25
 
     def dollar_price(self, obj): #Used to render a $ in front of each price, and add commas in for readability
-        return "${:,}".format(obj.price)
+        return "RM {:,}".format(obj.price)
     dollar_price.short_description = 'price'
 
 admin.site.register(Listing, ListingAdmin)
