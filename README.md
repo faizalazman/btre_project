@@ -5,6 +5,11 @@ I am building a real estate website for BT real estate. This is a part of a Djan
 ### Work in Progress
 - Currently building index page
 - Finished adding index, about, listings and listing page. Lightbox not working, dont know why  (18/11/2019)
+- Fixed lightbox, finished working on account and realtors (19/11/2019)
+- TODO - Fixed the css ( card for example)
+
+## Results
+![Website's Picture](showcase/Untitled.png)
 
 
 ```
