@@ -25,21 +25,21 @@ price_choices = {
 }
 
 state_choices = {
-    'JHR':'Johor',
-    'KDH':'Kedah',
-    'KTN':'Kelantan',
-    'MLK':'Malacca',
-    'NSN':'Negeri Sembilan',
-    'PHG':'Pahang',
-    'PNG':'Penang',
-    'PRK':'Perak',
-    'PLS':'Perlis',
-    'SBH':'Sabah',
-    'SWK':'Sarawak',
-    'SGR':'Selangor',
-    'TRG':'Terengganu',
-    'KUL':'Kuala Lumpur',
-    'LBN':'Labuan',
-    'SWK':'Sarawak',
-    'PJY':'Putrajaya'
+    'Johor':'Johor',
+    'Kedah':'Kedah',
+    'Kelantan':'Kelantan',
+    'Malacca':'Malacca',
+    'Negeri Sembilan':'Negeri Sembilan',
+    'Pahang':'Pahang',
+    'Penang':'Penang',
+    'Perak':'Perak',
+    'Perlis':'Perlis',
+    'Sabah':'Sabah',
+    'Sarawak':'Sarawak',
+    'Selangor':'Selangor',
+    'Terengganu':'Terengganu',
+    'Kuala Lumpur':'Kuala Lumpur',
+    'Labuan':'Labuan',
+    'Sarawak':'Sarawak',
+    'Putrajaya':'Putrajaya'
 }
